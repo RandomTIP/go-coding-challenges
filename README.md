@@ -1,2 +1,4 @@
 # go-coding-challenges
-Coding challenges written in Go
+John Crickets Coding challenges written in Go.
+
+See the challanges [here](https://codingchallenges.fyi/)
